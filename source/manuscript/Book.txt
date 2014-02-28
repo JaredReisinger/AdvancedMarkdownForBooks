@@ -1,3 +1,10 @@
-chapter1.txt
-chapter2.txt
-chapter3.txt
+frontmatter.md
+
+mainmatter.md
+
+a-brief-background.md
+getting-started.md
+
+backmatter.md
+
+index.md
