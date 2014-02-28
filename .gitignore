@@ -1,6 +1,5 @@
-# =========================
-# Windows detritus
-# =========================
+# Dropbox / LeanPub
+.dropbox
 
 # Windows image file caches
 Thumbs.db
