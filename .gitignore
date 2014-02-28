@@ -1,5 +1,7 @@
 # Dropbox / LeanPub
 .dropbox
+/source/preview/
+/source/published/
 
 # Windows image file caches
 Thumbs.db
