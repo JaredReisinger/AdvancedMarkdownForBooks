@@ -2,7 +2,7 @@
 
 As a programmer with an engineering mindset, I've always been fascinated with the
 _process_ of communicating, and of written communication in particular.  From
-plain text to nroff and TeX, to Microsoft Word and HTML/CSS, and now to Markdown
+plain text to nroff and \TeX, to Microsoft Word and HTML/CSS, and now to Markdown
 and Textile, the state of the art has meandered almost full circle.
 
 _... TODO (CI/CD? GitHub/collaboration)..._
@@ -17,6 +17,6 @@ publishable.
 Markdown is a fantastic format for simple-to-moderately-complex documents.  It
 supports just enough formatting for what you need 95% of the time.  For a full
 book, however, you need callouts, asides, an index and other cross-references,
-and perhaps a bibliography.  Following Knuth's example of the _TeXbook_,
+and perhaps a bibliography.  Following Knuth's example of the _\TeX book_,
 _Advanced Markdown and Processing for Book Publishing_ will show you how to use
 Markdown and other tools to all of those things, and more.
