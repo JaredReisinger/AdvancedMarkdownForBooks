@@ -3,9 +3,9 @@
 > Random notes as I get the projects/repos/books started, so that I don't forget
 > anything...
 
-After LeanPub shares the Dropbox folder with you, and you've created a repository,
-you can "import" the existing LeanPub content by mapping the Dropbox folder into
-the repository:
+After \index{LeanPub}LeanPub shares the Dropbox folder with you, and you've
+created a repository, you can "import" the existing LeanPub content by mapping
+the Dropbox folder into the repository:
 
 ```
 C:\YOU\GitHub\YourBook\> linkd source C:\YOU\Dropbox\YourBook

@@ -2,6 +2,7 @@
 .dropbox
 /source/preview/
 /source/published/
+/build/
 
 # Windows image file caches
 Thumbs.db
